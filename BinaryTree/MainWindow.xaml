@@ -1,0 +1,22 @@
+﻿<Window x:Class="BinaryTree.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BinaryTree"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="237.6" Width="825">
+    <Grid>
+
+        <TextBox VerticalAlignment="Top" x:Name="txt_input" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" Width="120" Margin="79,66,619.4,0"/>
+        <Button  x:Name="btn_generate" Content="Generate" HorizontalAlignment="Center"  VerticalAlignment="Top" Width="120" Height="25" BorderBrush="#FFC79601" Background="#FF73F182" Click="btn_generate_Click" Margin="79,108,619.4,0"/>
+        <TextBlock x:Name="tb_list" HorizontalAlignment="Left" Margin="228,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102" FontSize="16" Height="25" FontStyle="Italic"><Run Text="Unsorted List:"/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="tb_array" HorizontalAlignment="Left" Margin="231,84,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="557" FontSize="16" Height="24"><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="tb_list_Copy" HorizontalAlignment="Left" Margin="228,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="102" FontSize="16" Height="29" FontStyle="Italic"><Run Text="Sorted List:"/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="tb_Sortedarray" HorizontalAlignment="Left" Margin="229,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="558" FontSize="16" Height="26"><Run/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="15,69,0,0" TextWrapping="Wrap" Text="Enter num:" VerticalAlignment="Top" Width="60" Height="16"/>
+        <TextBlock HorizontalAlignment="Center" Margin="209,20,440.4,0" TextWrapping="Wrap" Text="   Binary Tree" VerticalAlignment="Top" FontSize="20" Width="169" FontWeight="Bold" TextDecorations="{x:Null}"/>
+        <Rectangle Fill="Black" HorizontalAlignment="Left" Height="167" Margin="212,19,0,0" Stroke="Black" VerticalAlignment="Top" Width="1"/>
+
+    </Grid>
+</Window>

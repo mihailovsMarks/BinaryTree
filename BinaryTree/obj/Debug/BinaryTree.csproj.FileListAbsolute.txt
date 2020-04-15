@@ -1,0 +1,14 @@
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\MainWindow.g.cs
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\App.g.cs
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\BinaryTree_MarkupCompile.cache
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\BinaryTree_MarkupCompile.lref
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\MainWindow.baml
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\BinaryTree.g.resources
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.GenerateResource.cache
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Marks\Desktop\WPF\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
